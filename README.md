@@ -4,12 +4,15 @@ This database is designed to organize and analyze crime-related data for innvest
 The goal is to provide a structured way to track case progress, monitor crime activities and to identify patterns within the city. 
 
 Entity: Crime Incident
+
   Attributes
+  
           Date
           Location
           Type of Crime
 
   Instances
+  
           March 27, 2024
           1229 Reserve Avenue, Silver City, 25050
           Homocide
@@ -19,12 +22,15 @@ Entity: Crime Incident
           Assault
 
 Entity: Suspect
+
   Attributes
+  
           First Name
           Last Name
           Age
 
   Instances
+  
           John
           Roger
           41
@@ -34,12 +40,15 @@ Entity: Suspect
           29
 
 Entity: Case File
+
   Attributes
+  
           Case Number 
           Status 
           Officer Assigned
 
   Instances
+  
           25681550541255
           Closed
           Officer Alex
@@ -49,12 +58,15 @@ Entity: Case File
           Officer Paige
 
 Entity: Officer
+
   Attributes
+  
           Badge Number
           Name
           Rank
           
   Instances
+  
           CF-021
           Alex Johnson
           Dectective
