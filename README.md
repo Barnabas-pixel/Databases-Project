@@ -1,3 +1,6 @@
+Commit made for git assignment
+
+
 Description:
 
 This database is designed to organize and analyze crime-related data for innvestigative and reporting purpose.
